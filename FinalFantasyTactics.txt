@@ -1,0 +1,325 @@
+Final Fantasy Tactics
+
+Best Combination 
+     One of the best combinations of characters in the game also needs
+good  skills  and equipment. Your main team should always have: Ramza,
+Orlandu, Agrias, Beowulf, and Mustadio.
+     For  Ramza,  make him master the monk class, then turn him into a
+lancer and master that class, too.
+     For  Orlandu,  you  can try making him a monk. just make him have
+the  'equip  sword'  ability.  He can kickass with his monk abilities,
+even  better  than  Ramza.  Make Orlandu learn all of these skills and
+then  turn  him  back  into a holy swordsman. use the monk skills as a
+secondary skill.
+     For  Agrias,  fo  the same thing you did for Orlandu, except that
+her monk skills aren't as strong as everybody else.
+     For  Beowulf,  make him learn all of his temple knight skills and
+then  turn  him into a samurai. Learn all of the skills, and then turn
+him back to the temple knight. The skills should be useful, especially
+the 'kiyomori' sword skill.
+     For  Mustadio, do the same thing you did with Ramza. At the start
+of  the  game,  though,  you  might want him to learn all of the snipe
+skills  and  then  become  a  master chemist. this is a good combo for
+early stages.
+     Note:  When  using  Orlandu,  Agrias,  and Beowulf, make sure you
+duplicate  the  Excalibur  sword and give one to each of them. It will
+give them the ability to go first plus hurt more with their attacks.
+ 
+Chicken Trick 
+     For  this  you'll need either a mediator or an oracle. A mediator
+is  best. First learn any skill that lowers brave points. Then all you
+have to do is lower someone's brave points below 10. They'll turn into
+a chicken. They can't attack, they just run away.
+     NOTE:  They gain 1 brave point every turn, so keep it under 10 or
+they'll turn back.
+ 
+Deep Dungeon "Lights On" Trick 
+     If  you  have  been  to  the  Deep Dungeon in chapter 4, you will
+notice  there  are  no  lights.  In  order to turn them on follow this
+procedure:
+   1.destroy all but one enemy and keep him n stop or sleep. 
+   2.keep choosing "Wait" for all of your team 
+   3.pretty soon, the defeated enemies will turn into crystals and
+     will light up the room.
+ 
+Defeat Velius 
+     To  defeat  Velius,  bring along at least one summoner that knows
+Lich,  a  chemist  with a Mythril Gun, and anyone with a strong attack
+(like a knight or a ninja.)
+     First,  move within four spaces of Velius and use wave fist. Then
+you  should get another turn. Use wave fist again and then jump across
+the water on the right.
+     I  think  Velius  gets his turn next and he'll use Cyclops. While
+he's  charging,  move your guys away from the target. If he targeted a
+certain  person,  attack  him  directly  with  that person. Hopefully,
+you'll  have a summoner left. Cast Lich (It'll hit him for around 500,
+and he has 1000hp)
+     By  now  he  should  be almost dead. Just use anything you can to
+finish him off
+ 
+Defeat Wiegraff 
+     To  defeat  Wiegraff  at Riovanes Castle, become a monk and learn
+WAVE FIST, CHAKRA and MOVE-HP UP. A Bracer will help as well.
+     Start  out  by  getting as close to him as you can. Then use wave
+fist.  He will then use Lightning Stab and run away. DON'T FOLLOW HIM.
+Run  back  to  where  you started and use chakra. He will then move to
+where he started. Now repeat all this until he's dead.
+ 
+Defeating Balk 
+     Balk  is  a difficult enemy to beat. At first glance, this battle
+in  Murond  Death  City  looks  fairly simple: Balk is standing in the
+midst  of  four  monsters  (one  of  each  of the following: Behemoth,
+Hyudra,  Hydra,  and  Tiamat).  You  find out pretty quickly that this
+battle isn't going to be one of the easy ones.
+Here's my take on how to beat Balk and his crew of beasts.
+     First, use the sword duping trick to make a number of "Excalibur"
+and "Save the Queen".
+     Change Ramza's job to Knight if you don't have him there already,
+and  equip  both  the  swords  stated  above (must have the Two Swords
+ability  from  the  Ninja job class [900 JP]). This will automatically
+put him in [Haste] and [Protect].
+     Have whatever ability you want for your secondary action ability.
+Use  Blade  Grasp  for  your  Reaction ability, Two Swords for Support
+ability, and Move-HP UP for Movement.
+     NOTE: This combination of abilities and items works well with ANY
+character,  but  you  may  not  have  spent enough time with everyone,
+having Ramza the only one capable.
+     For the rest of my team, I included Mustadio as an Engineer (with
+Mythril  Gun),  Orlandu as Holy Swordsman (with Excalibur and Save the
+Queen if possible), Agrias as Holy Knight, and a Ninja.
+     Equip  the best armor you have (Reflect Armor works OK here). The
+Defense  Armlet  is  the best accessory to have (so Balk can't use his
+Snipe  skills  on  you),  but Rubber Shoes (accessory) are useful when
+Balk  tries  to  shoot  you  with his Lightning-aligned Blast Gun. Use
+whichever  is  handy,  but  equip  the  Defense Armlet(s) on your best
+character(s).
+     Use  Mustadio's "Snipe" ability on the monsters to paralyze them.
+Pick each one off in turn with Ramza and the Ninja going up close with
+Two  Swords, while Agrias and Orlandu get them with Lightning Stab (or
+the best skill you have).
+     Note:  You  can  just  attack  the  Behemoth  until its health is
+"Critical".  It'll  leave  you alone. The three other monsters can hit
+you  with  their firey breath (and from fairly far away), so make sure
+you kill them off completely.
+     You   can't   paralyze  Balk,  so  you  have  to  concentrate  on
+surrounding  him.  He  runs away easily and can hit you with his Blast
+Gun,  so  go  after him quickly (once you've eliminated the monsters).
+Try  to  break his Blast Gun first with Orlandu's Hellcry Punch. After
+that, he's easy to defeat with ANY ally. Good luck!
+ 
+
+Duplicate Weapons 
+     Set  the  Ninja  "Two  Swords" skill on anyone. Equip a shield in
+their right hand, and the item you want duplicated in their left. Nnow
+go  to  a  shop that sells the items you want duplicated, choose "BEST
+FIT"  and  buy  them.  Next, go to the formation screen and remove the
+items. You should now have two of the item you had in the left hand.
+     For  example, to duplicate Excaliber, go to Lionel castle's shop.
+You'll get a second Excalibur for only 10 gold!
+ 
+Easy Level Gain and Job Points 
+     Before  you  can  do this you'll need to learn ACCUMULATE and (if
+possible)  the  JP-UP  skill. You also need at least one monk with the
+CHAKRA skill for this to work.
+     Walk  across  any green dot until you are attacked, then kill all
+but  one  enemy. Next, find five squares that form an + and are on the
+same  height  level.  Have the monk stand in the center with all other
+characters  in  the  adjacent squares. Use accumalte over and over and
+when your attacked just use chakra to gain back your health. Repeat as
+desired.
+ 
+Equipment Tip 
+     When  fighting  battles  against  other  humans, be sure to check
+their  equipment.  Sometimes  they have items not available in stores.
+Use a mediator to invite them into your party and strip them after the
+battle, or use a thief to steal their belongings.
+
+Gain 5 or more Levels in One Fight 
+     You  know how you get exp with one hit? What if your character is
+so  strong, it kills with one hit. What if you can hit someone over 20
+times without your guidence and safely return home. What you need is a
+wizard, and an oracle or mediator.
+     What  you  do  is  you  turn  your enemies into frogs. It is time
+consuming,  but  it  is  worth  it. (You can increase chances by using
+oracle  "pray faith." Once that is done. and I know this sounds weird,
+turn  your strong character into a frog. Then with oracle or mediator,
+put  him  into  berserk.  This  will allow him to fight on auto-battle
+without running away. Keep your character well healed.
+     Move  the  rest of your characters far away from the fight. Frogs
+VS  Frogs. Put them on auto battle in "Run like a rabbit" mode so they
+don't interfere. They shouldn't interfere.
+     Leave  it on over night. By morning that character will rise 5-10
+levels, and have over 2000-5000 jp points.
+ 
+Get Cloud 
+     This  tip  must  be done during Chapter Four. Not that you should
+have about six empty spaces in your formation screen before attempting
+this.
+     Go to Zeltennia Castle and listen to the rumor called
+"Cursed Island"
+     Buy  a  flower from Aeris at Zarghidas Trade City then go to Goug
+machine  city with Mustadio. The screen will fade and go to a scene of
+Mustadio, Ramza and a steel ball.
+     Go  to the bar in Goland Coal City and listen to the rumor of the
+"Ghost of Colliery"
+     After  this,  go to Lesalia Imperia and the screen should shown a
+scene of a bar. When you leave, invite Beowulf to join your party.
+     Now  that  you  have Beowulf, go to Goland Coal City and you will
+fight 4 battles here and save Reis. After you save Reis you will get a
+Zodiac Stone that will trigger the steel ball.
+     Return to Goug Machine City again and add the Robot to your party.
+     Now  that  you  have  the  robot, go to Nelveska Temple. You will
+fight  another  robot  kill him and you will recieve a stone that will
+bring Cloud to your world.
+     Now  go  back  to Goug Machine City and you will trigger the time
+portal  machine and it will suck Cloud from the future bringing him to
+your world.
+     Now  go  to  Zarghidas Trade City and save Cloud from the thieves
+that  are punking Aeris. Note: if this part didn't work make sure that
+you killed Dycerag and his Zodiac Soul Adramelk.
+     When  Cloud  joins your party all he can do is defend and attack.
+You'll  need  to  find his Materia Blade so that he can use all of his
+limit attacks from Final Fantasy VII.
+     The  Materia  Blade  is located in the Bervania Volcano. Set your
+party's  on  Move-Find Item Then go to the highest tall rock and go to
+the top of it.
+ 
+How to get the Chaos Blade 
+     On  level  nine  of  the  Deep Dungeon you should fight a team of
+ninjas.  Ready  your CATCH ability. If you're lucky, one of the ninjas
+will throw a Chaos Blade at you. If you catch it you get to keep it!
+
+Immortal Female 
+     To have a female that cannot turn into a crystal or treasure box,
+you  must  have the Chantage perfume (stolen from Meliadoul in Chapter
+4)  and  a character skilled as a ninja, or have a Vanish Mantle as an
+accessory.
+     Put  the  Chantage perfume on any female character, and make sure
+the  Ninja  has  the  reaction skill of Sunken State (or equip him/her
+with the Vanish Mantle)
+     Go  into  battle,  and  hit  the Ninja until he uses Sunken State
+(unless he has a Vanish Mantle) then make your Ninja run away after it
+is transparent (not acting!)
+     You  will  notice that your female character, after dying will be
+revived as soon as her AT reaches 100. This will happen every time she
+dies! It is better to have someone like Agrias use this technique!
+ 
+Instantly Kill Undead 
+     To  instantly  kill  an  undead  (ghouls, skeletons, etc), simply
+throw  them  a  Phoenix  Down.  You  will  never  miss and they'll die
+instantly!
+     Warning:  When  you  kill undead this way a timer will appear. If
+you  don't  finish the game before the timer reaches 0 the undead will
+rise again.
+ 
+Mime Job 
+     The  requirement  for  the job mime is level 8 item user, level 8
+beginner  knight, level 5 summoner, level 5 talker, level 5 Fu-sui-shi
+(Element user) and level 5 dragon knight.
+
+Mini-Games - Japanese 
+     Sometimes  when  you go to the bar and accept a mission, you will
+get  a  book.  You can use that book to play a little mini game. There
+are four books in all.
+     Note: This tip only works in the Japanese version.
+ 
+More Powerful Ramza 
+     For  a more powerful Ramza, have him master the squire class then
+switch  him  to  the  ninja  class  and have him master that too. Then
+return  him  to  the  squire  class  and equip him with the two swords
+ability.  Because  of  his  special squire abilities he can wear heavy
+armor  and  helmets.  Because  of  his natural H.P bonus in the squire
+class  his max H.P should go up almost 100 H.P! This tip works best in
+late ch.3 to ch.4.
+     NOTE:  When  you  get  T.G  Cid  at  the end of the 3rd. chapter,
+duplicate his excalibur and put one in each of Ramza's hands. If he is
+at  a  good  level and has a high attack power, he can attack for 350+
+points of damage each hit!
+ 
+Music Test - Japanese 
+     In  the  Japanese version, enter your name as B-G-M-Ki-Ki-Ta-I to
+access the Music Select screen.
+
+Raise Bravery Permanently 
+     When  you reach chapter two, purchase the Square ability CHEER UP
+for  Ramza.  Once  you've  acquired  it,  go into battle and use it on
+everyone  on  your  team.  It  will temporarily raise their BRAVE by 5
+points, and provide a permanent 1-point increase.
+     You can get your Brave up to 97. This works great if you have the
+Blade  Grasp  skill because the enemies will only have a three percent
+chance of hitting you!
+ 
+Ultimate Summon 
+     After  beating  the battle in the holy land of Myurond, go to the
+seaport  Wo-jirius.  Following  an  short  event you can go into Dieve
+dungeon,  and from the tenth floor of the basement you will be able to
+learn  the  ultimate  summon  (equivalent to Knights of the Round from
+FFVII.)
+
+Weigraf and Velius: Two Birds with One Stone! 
+     When  you  encounter  Weigraf  for  the  last time(just before he
+becomes   Velius)   you   cankill   him   easily  by  following  these
+instructions:
+     Make  sure  Ramza  is  a Squire with two sword ability or a Ninja
+with HP Restore and the support skill Guts equipped.
+
+     When  you  start  the  battle it's just you (Ramza) and Weigraff.
+Don't  attack  him,  instead  keep  away  from  him  and  use Yell and
+Accumilate repeatedly when it's your turn.
+
+     Eventualy  this  will raise your speed and level high enough that
+you  don't  have  to  worry  about  his  Lightning Stab or Earth Slash
+attack.
+
+     When you are getting 3 to 4 consecutive turns in a row (Check the
+AT  list) wait until the beginning of the next cycle then attack. Your
+two-sword  ability should kill Weigraff in one turn and Velius will be
+dispatched before anyone else even gets a turn.
+
+     This  should  make  what was the hardest battle in the game quite
+simple. Good luck!
+ 
+Zodiac Stones 
+Aries, acquired after defeating Wiegraf. 
+Taurus, Found hidden in Goug Machine city. 
+Gemini, acquired after beating Duke Elmdor in Limberry castle. 
+Cancer, acquired after beating the steel giant. 
+Libra, in the possession of thunder god Cid. 
+Scorpio, acquired after vanquishing Draclau. 
+Sagittarius, The high priest gives this stone to Meliadoul. 
+Capricorn, Acquired after defeating Dycedarg. 
+Aquarius, found in the deep coal mine in Goland. 
+Pisces, given to Alma by Izlude while he was dying. 
+Serpentarious, Elidibs has it in the last deep dungeon level. 
+Leo, this stone is acquired by killing Vormav. 
+Virgo, Altima possess the last stone in the Graveyard of Airships. 
+ 
+Crystal Abilities 
+     When  an enemy human character dies and turns into a crystal, and
+the ability command appears when you step on it. If you select ability
+and  it  gives  you  a list of abilities you can learn, (fire, fire 2,
+fire  3  etc,  I discovered a way to get every ability there. When you
+select  ability,  and  it gives you the list, go to the very bottom of
+the  list and select the bottom ability listed. Then check the persons
+abilites  that  they  can learn and you should have every ability that
+you could learn from the crystal.
+
+Deep Dungeon - Lights On (Alternate) 
+     Another  way  you to turn the lights on in the Deep Dungeon is to
+have  a  character  with  the  Teleport ability. When you click on the
+character (even when it's not his or her turn) the field lights up.
+     When  it's  not  the  Teleporting  character's  turn, press the X
+button with the Teleport spell.
+
+Hint: Fast Job Level Up 
+     This  requires  one  character that has the Knight Skills, "Speed
+Break"  and  "Power  Break".  Everyone else can be any class, but they
+must  have  the  Squire  Skill, "Throw Stone". It may be good to equip
+them with the "JP up Ability" as well.
+     Enter  an area where monsters are weak (like the Mandalia Plains)
+and  leave  one  monster on the field, but wound it with the Speed and
+Power Break skills. This causes the monster to hardly take any action,
+leaving  all  your  other members to throw huck stones at one another,
+and watch them become masters in no time!
+
+ 
